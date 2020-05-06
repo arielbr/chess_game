@@ -1,0 +1,595 @@
+commit 4d41e364158fcfa25c343c4c468ab1d2577b4855
+Merge: efc2cf1 bcc53c9
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Dec 4 17:12:39 2019 -0500
+
+    wrote README
+
+commit bcc53c92cdc1ea5ce223889052d6a319b745fd66
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Dec 4 16:40:26 2019 -0500
+
+    small changes
+
+commit efc2cf1c95cb95911795ad24c5ed429a3f719639
+Merge: 893c176 1b9a989
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Dec 4 16:38:41 2019 -0500
+
+    Board.cpp Chess for merging
+
+commit 893c17613b0080c56b6e4b899880619dbaeea96e
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Dec 4 16:34:30 2019 -0500
+
+    deleted for reverting
+
+commit 1b9a989283476e10fa2f45cbf144f2352cac1129
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Dec 4 16:32:40 2019 -0500
+
+    changed Chess copy constructor
+
+commit 9dea177859b5fe0c0daed2e7ab5aa5011884c945
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Dec 4 15:46:45 2019 -0500
+
+    fixed >> function
+
+commit 262f3179b71b2d242fc459757d9266fde9ba4bfe
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Wed Dec 4 03:28:23 2019 -0500
+
+    file with a stalemate that might work
+
+commit 32a7666c3a13448093189ad6bc532b6e9b71337f
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Tue Dec 3 22:12:06 2019 -0500
+
+    Changed copy constructors and destructor
+
+commit df17db92ebcc3a72dbfb0343342d97885af15bb0
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Tue Dec 3 19:04:17 2019 -0500
+
+    commented out destructor
+
+commit 3b144b45801d996d41bc61a602340b033417f941
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Dec 3 17:28:05 2019 -0500
+
+    updated Board.cpp
+
+commit f8eded585b0c55141dea3beb4995f5b7f6b1e1a9
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Dec 3 17:19:33 2019 -0500
+
+    updated stalemate, works now
+
+commit 275d1cc009118c36c7bead78428620c643d0f087
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Tue Dec 3 17:19:03 2019 -0500
+
+    changed destructor
+
+commit 298fde5c2dcd8928148c88c2f2255d04fe5c7970
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Dec 3 11:00:48 2019 -0500
+
+    comments
+
+commit 438853fc741b055946d4bead62e59d831d0fadf6
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Dec 3 02:29:13 2019 -0500
+
+    added comments, added m to add_piece
+
+commit bbe9d8cf1f5bc053adfdaebc89a37772da07d1a9
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Tue Dec 3 01:41:48 2019 -0500
+
+    Rewrote overloaded << input operator, and Board/Chess copy constructors
+
+commit d12daf7cfcd8a19476353f4cf8e5dc7787996c1b
+Merge: 1225e16 2da146c
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 21:46:44 2019 -0500
+
+    Merge branch 'master' of https://bitbucket.org/aweyer/cs220final
+    
+    merged, worked on different functions
+
+commit 1225e161971cab11286224e86c85d740af6236d4
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 21:46:23 2019 -0500
+
+    updated operator>>
+
+commit 6e2394053c62b4291acb65207ea2979c68da236e
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 21:45:26 2019 -0500
+
+    updated board
+
+commit 2da146c96fddb21171b0b24449ae11929a672d89
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Dec 2 21:29:39 2019 -0500
+
+    Function declarations added in Chess.h
+
+commit 2e2a3296ef576dd6ae220e231d2e3eb650212938
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Dec 2 21:27:46 2019 -0500
+
+    Edits to in_mate and king can move functions
+
+commit df72a3820255f1c3ca35533550b3759c5f957625
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Dec 2 20:49:39 2019 -0500
+
+    Wrote two functions to check if king can move
+
+commit ec554c566cb7ab2572f9d4549d50da0451aa4633
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Dec 2 18:50:49 2019 -0500
+
+    blah
+
+commit 6c5dfb100f71efccaefe5746b520ddd17a8a9dfc
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Dec 2 18:01:29 2019 -0500
+
+    changes
+
+commit 5c4c4daf7bbee36c5ef5c5cb42c16ee16aa4de89
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Dec 2 17:44:20 2019 -0500
+
+    fixed errors
+
+commit d6e5cd7008a7a0eeb1f0306fe052731ad15c61e8
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Dec 2 16:55:10 2019 -0500
+
+    edited make_move
+
+commit 6d9ca9ac76b5361f23757e6636d1d830493c1344
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 16:53:28 2019 -0500
+
+    updated Chess
+
+commit 1523a882d75489b1fbc5a1225ccd59b8d4342c96
+Merge: 2967020 04521df
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 16:19:45 2019 -0500
+
+    Merge branch 'master' of https://bitbucket.org/aweyer/cs220final
+    
+    merged
+
+commit 296702015966c4330e78a0fb366fcf08e8b59f50
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 16:19:27 2019 -0500
+
+    add get_occ
+
+commit 1601c856875da22a2540daed3da16f5b5d50e057
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 16:18:43 2019 -0500
+
+    updated Chess
+
+commit b6ab57240af9338974959f9693a44e222bb3b2fb
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Dec 2 16:17:05 2019 -0500
+
+    added copy constructors for Chess
+
+commit 04521df8cfc2c51ebca4fa10b24d0b23464963e8
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Dec 2 15:25:29 2019 -0500
+
+    Fixed make_move
+
+commit 8f2e271fa5e9357355f5fe57e2d931b26d6dbf1a
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Nov 30 01:40:24 2019 -0500
+
+    edited Chess.cpp, unsolved seg f
+
+commit 9cda5ba5b27cf3f62c2a1b1504d4ad61eb355342
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Nov 30 01:27:42 2019 -0500
+
+    edited Chess
+
+commit 7dedde64a29065b7a17dba2adc533a9563eef575
+Merge: f744b62 5306dae
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Nov 30 01:15:01 2019 -0500
+
+    Merge branch 'master' of https://bitbucket.org/aweyer/cs220final
+    
+    merged because editing simultaneously
+
+commit f744b6251552e734d9f2338e3ff87c6446a2217e
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Nov 30 01:13:14 2019 -0500
+
+    edited in_stalemate
+
+commit 5306dae75a24af09df70fbfeda59b8cf9cd7bdb8
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Sat Nov 30 00:35:17 2019 -0500
+
+    Fixed Pawn.cpp, only allowed diagonal movement in one direction before
+
+commit 21b720cbfb275829f64ed99b1efc12e42b852d6e
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Sat Nov 30 00:23:36 2019 -0500
+
+    updated Board and Chess
+
+commit d096125ee123b8e599a49d0adbfac38b8ec64e3f
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Nov 29 18:23:26 2019 -0500
+
+    wroted overloaded operator>> function
+
+commit c7dcd1ca3c0e31aa958a46132cfd522d4f367fcb
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Nov 29 17:49:50 2019 -0500
+
+    deleted all redundant code, changed to a new mtd of testing stalemate
+
+commit 57de44c919279038d46a2f7f99bff669d2792b96
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Nov 29 17:32:49 2019 -0500
+
+    updated Chess.h
+
+commit 6aa8f365275c47458d6dccdcde003db5e487c1bb
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Fri Nov 29 17:30:07 2019 -0500
+
+    modified in_stalement
+
+commit a9e37397c6d4cfbf3babbb1c302ee21407ba6028
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 05:32:56 2019 -0500
+
+    Wrote destructor, attempted fixing delete_piece
+
+commit bcf713c85556fad62bb03e96b5ab69bfad5eb6f4
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 04:42:33 2019 -0500
+
+    Edited display function
+
+commit ad362e035f0047c3f79037b11adc29014a8197f5
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 04:34:08 2019 -0500
+
+    Wrote display function, and helper function for unicode chess characters
+
+commit fe20c465c06b436319ea9117dc04745304287c82
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 01:02:45 2019 -0500
+
+    Fixed syntax errors in in_mate
+
+commit cf027eb5f5552d30f3385c5d028d90b78b918ad8
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 00:57:17 2019 -0500
+
+    Changed the declaration of get_attackers in Chess.h, there was a compile error
+
+commit 56cf943cabf0bc4a842b3bf4ffa10aaea8c0222f
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 00:52:21 2019 -0500
+
+    Removed old implementation of finding king position from in_check
+
+commit f549578a984a9b6a49d798fa056a79f4bce2d8f4
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Fri Nov 29 00:50:55 2019 -0500
+
+    added return value to get_king_position
+
+commit 43f80f3aefbd1d7f4a2b5f63a71b21456e883996
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Fri Nov 29 00:36:41 2019 -0500
+
+    get_king_position function added
+
+commit a2f3a8c4c948c6622bea36a63ac546c7d738311f
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Fri Nov 29 00:20:13 2019 -0500
+
+    finished in mate
+
+commit 539c2975888a9a37e33cf62f2b5d2a14bc5df7b7
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Thu Nov 28 21:57:34 2019 -0500
+
+    function: get_attackers for use in in_mate
+
+commit 4056be3628dbdf9a2e30d2c5dc45114d88c0b8ce
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Thu Nov 28 21:26:14 2019 -0500
+
+    edits
+
+commit 9a1fe5ff51683a128511f7d74186f2e52af4cac0
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Thu Nov 28 21:20:03 2019 -0500
+
+    added function
+
+commit 1c4bd640825d78dc6f2eb32554f12b12c6aec004
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Thu Nov 28 10:36:42 2019 -0500
+
+    trying to figure out in_mate
+
+commit 11c9c6cfbdb48f352ff1f722776232503288b2b6
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 22:19:19 2019 -0500
+
+    pushing updated gitlog.txt
+
+commit 804f7785788674e86538d254f802fc9f1385a72c
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 22:18:26 2019 -0500
+
+    added functions for testing stalement if piece is bishop, rook, knight, or pawn, still left with checking if move will cause checkmate
+
+commit c75f983cb99c98fb8f756ea8a1ec73047804fa0c
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 22:17:27 2019 -0500
+
+    updated Chess.h
+
+commit 49b4cfadd441b98d2fd6bdd09c1b8778d202b8f1
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 21:22:52 2019 -0500
+
+    added all_horizontal_pos, vertical, and diagonal
+
+commit efa6025679b90f7caf095ebe17cca21292bc0427
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 18:23:42 2019 -0500
+
+    added all_left_pos function
+
+commit 3e152f9a0db77cc398406b89296ec43cc85d20d4
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 18:07:02 2019 -0500
+
+    modified stalemate func for bishop
+
+commit 80708b9e6d098f6f21f4b935f535b0ab8ccd5a83
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 17:46:32 2019 -0500
+
+    added stalemate functions for king and queen
+
+commit 07f24ee52504703251c4d240967ffb8e9c9d9962
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 17:38:21 2019 -0500
+
+    modified is_stalemate
+
+commit 80e0e68f8e89550f44dc49abe79d695872cb3ea6
+Merge: dca309a e04b29f
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 10:39:58 2019 -0500
+
+    Merge branch 'master' of https://bitbucket.org/aweyer/cs220final
+    
+    merged files
+
+commit dca309aebb38bf739a81f7035d5e5b87b5e13257
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Wed Nov 27 10:39:49 2019 -0500
+
+    updated Chess.cpp
+
+commit e04b29ff61982f31fb8d3defe9f3f9c326f82f97
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Nov 27 02:16:12 2019 -0500
+
+    small change to Chess.cpp
+
+commit bdb7d4c83ac361a71db69dec22cd3ad994c0d97d
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Nov 27 01:58:26 2019 -0500
+
+    Added a get_board function to Board.h, wrote in_check in Chess.cpp
+
+commit 89a1206d2dac1b726b12fd48fce6f730c9de5afc
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Wed Nov 27 00:41:18 2019 -0500
+
+    Rewrote make_move function to handle piece promotion and deletion/addition of pieces
+
+commit 9a4ad4db338c97ae0a075d88c995ee54032362c3
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 06:39:19 2019 -0500
+
+    small edits to board
+
+commit 14ca1ee3371babcd09675944bbd56008aec1f129
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 06:34:10 2019 -0500
+
+    edited check clear path funct
+
+commit 5ad77fa5194432f02b0f0e9533f2f9a119f959e2
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 06:28:18 2019 -0500
+
+    made function check_clear_path in board
+
+commit e7430a7e1160380de2d76e0bd3d9500810f9e1a6
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 04:03:14 2019 -0500
+
+    added function get_path to board
+
+commit 573ba5557ab07ace5a407c8ef287e439de21e945
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 01:57:45 2019 -0500
+
+    small edit to board.cpp
+
+commit 1f4306dbb07287500a2c3615c775b2b7077022a4
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Tue Nov 26 01:45:12 2019 -0500
+
+    added some print statements in board.cpp
+
+commit c61e8b30aef71d828bae4492b8b8c12e64a49d8b
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Nov 25 23:30:27 2019 -0500
+
+    made Board.cpp, compiled
+
+commit 68f347ab400158a1026555041256eee6627b215c
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Nov 25 23:28:05 2019 -0500
+
+    modified make_move function in Chess.cpp
+
+commit 7c696941da9dd358380e97587ab182c8551fc9e9
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Nov 25 22:20:09 2019 -0500
+
+    compiled Board.o
+
+commit 7305aea6f0291cdc1f53accd8af67720e0cb4638
+Author: Ariel Bao <rbao4@jhu.edu>
+Date:   Mon Nov 25 22:07:48 2019 -0500
+
+    modified Board.cpp
+
+commit 6f5eb05101ec4e23065551aa144728c1621d239b
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:23:32 2019 -0500
+
+    Added include statements/fixed typo in Queen.cpp/Rook.cpp
+
+commit b4e5a2cf9d0197cf02d38d6179abd49630b513e8
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:19:18 2019 -0500
+
+    Remove function implementation from Bishop.h
+
+commit 528e07781dc16e0e45df44949b83806de311cd97
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:12:53 2019 -0500
+
+    Remove typo in Pawn.cpp
+
+commit 29a7eae6ea4f18fbdc5d50cacf83faef5197eb2a
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:11:18 2019 -0500
+
+    Edited Rook.cpp to check end position and check if piece doesn't move
+
+commit afeb1473e355f1175d0859d4d2dacfd57d74d761
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:05:30 2019 -0500
+
+    Edited Knight.cpp to check end position, changed position of return statement
+
+commit 513e5a33e8f56ec2bf43a952b6762a074773274a
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 18:00:24 2019 -0500
+
+    implemented legal_capture_shape
+
+commit 958a25dc76187c9aeeb75840df049ca970f165dc
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 17:54:37 2019 -0500
+
+    Edited Pawn.cpp to check end position/started legal_capture_shape
+
+commit d37140637b12fe6cd40c3c51e403a1c925e275da
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 17:29:13 2019 -0500
+
+    Wrote Bishop.cpp
+
+commit 0d6129ff87993df1a2c2b00d819023dda6b50974
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 17:19:28 2019 -0500
+
+    Edited Queen.cpp to check end position/check if piece doesn't move
+
+commit 085c03dd599f8f061579f074fc3ec18238671a9e
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 17:05:02 2019 -0500
+
+    Wrote Makefile
+
+commit e441ff6eaf8944f37929dd3bba08e7e1344bc1cc
+Author: Charlotte Quinn <cquinn21@jhu.edu>
+Date:   Mon Nov 25 17:04:15 2019 -0500
+
+    Edited king.cpp to check if move is on the board
+
+commit 059c4d8783f78b97e81b4bcca1c749aaf64ab71e
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 06:01:27 2019 -0500
+
+    continued pawn.cpp
+
+commit a8dc39e3a80d8d7fa0ac6bac5d7a70d5f252925f
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 05:56:09 2019 -0500
+
+    started pawn.cpp, added a new function to pawn.h
+
+commit 85f821da48c6d8882ec32ab1f91115d4b5644c6c
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 05:33:41 2019 -0500
+
+    finished Knight.cpp
+
+commit 55b60b5e7e07fac1ab39832a7ac7ea5d04eb860b
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 05:21:48 2019 -0500
+
+    finished queen.cpp
+
+commit ef467e23dbcd0793d433cd00cf15bc383db930bf
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 05:12:55 2019 -0500
+
+    finished Rook.cpp
+
+commit 5bcfa1db8fb9cee03d33e23f02e5bc17508cce17
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 05:08:25 2019 -0500
+
+    finished king.cpp
+
+commit ee3a3b9013159b1d2a182c09aa59b446a20398f2
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 04:51:48 2019 -0500
+
+    started board.cpp
+
+commit ae80a242dc1c0133423c041e8226f5a2113265a8
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Mon Nov 25 04:24:01 2019 -0500
+
+    added pre-made files to repository
+
+commit cfd05f75cedd1df32101122b190ce76677bc1795
+Author: Abby Weyer <aweyer3@jhu.edu>
+Date:   Sun Nov 24 10:36:38 2019 +0000
+
+    Initial commit
